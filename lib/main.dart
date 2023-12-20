@@ -168,16 +168,16 @@ class CalendarAppointment extends State<TimeTableCalendar> {
   }
 
   void _getColorCollection() {
-    _colorCollection.add(const Color(0xFF0F8644));
-    _colorCollection.add(const Color(0xFF8B1FA9));
-    _colorCollection.add(const Color(0xFFD20100));
-    _colorCollection.add(const Color(0xFFFC571D));
-    _colorCollection.add(const Color(0xFF36B37B));
-    _colorCollection.add(const Color(0xFF01A1EF));
-    _colorCollection.add(const Color(0xFF3D4FB5));
-    _colorCollection.add(const Color(0xFFE47C73));
-    _colorCollection.add(const Color(0xFF636363));
-    _colorCollection.add(const Color(0xFF0A8043));
+    _colorCollection.add(Color.fromARGB(255, 26, 58, 41));
+    _colorCollection.add(Color.fromARGB(255, 86, 51, 95));
+    _colorCollection.add(Color.fromARGB(255, 88, 53, 53));
+    _colorCollection.add(Color.fromARGB(255, 187, 115, 89));
+    _colorCollection.add(Color.fromARGB(255, 71, 121, 98));
+    _colorCollection.add(Color.fromARGB(255, 96, 160, 192));
+    _colorCollection.add(Color.fromARGB(255, 94, 105, 172));
+    _colorCollection.add(Color.fromARGB(255, 139, 80, 74));
+    _colorCollection.add(Color.fromARGB(255, 150, 82, 82));
+    _colorCollection.add(Color.fromARGB(255, 70, 153, 110));
   }
 }
 
