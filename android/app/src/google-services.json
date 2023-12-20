@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "129352497806",
+    "project_id": "flutter-calendar-66276",
+    "storage_bucket": "flutter-calendar-66276.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129352497806:android:deb5319b2b7da433e0e7df",
+        "android_client_info": {
+          "package_name": "com.example.timetable_calendar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLGAlz5bpOcHOVFOcfMC81q68HQb3JonE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
